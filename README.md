@@ -1,4 +1,11 @@
 # web-design-challenge
+FOR THE PYTHON DRILLS:
+
+
+
+
+FOR THE CASE ASSIGNMENT:
+
 A few notes as to file organization:
 All main html pages are labelled as: index, viz1-4, data, and comparisons. There is a "styles" css file. There are some additional peices such as the icons and site.webmanifest file haivng to do with creating the weather icon at the top of the web page tab.
 
