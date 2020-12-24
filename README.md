@@ -1,7 +1,6 @@
 # web-design-challenge
 FOR THE PYTHON DRILLS:
-
-
+I had some issues with the text wrap drill. I was able to easily recreate the example with code to do the parsing by every 4 characters. However, when writing a function to allow for user input, my juypter keeps timing out everytime I try to run it. I think the code is close, but likely missing a parentheses or brackets in the statement re: with=value. Since I am having trouble testing, I'm not sure, but you can see I was able to do the intial recreation using the textwrap function. 
 
 
 FOR THE CASE ASSIGNMENT:
